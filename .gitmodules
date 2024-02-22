@@ -1,0 +1,6 @@
+[submodule "backend-sanity"]
+	path = backend-sanity
+	url = https://github.com/lakshmangiri/backend-sanity.git
+[submodule "frontend-react"]
+	path = frontend-react
+	url = https://github.com/lakshmangiri/frontend-react.git
