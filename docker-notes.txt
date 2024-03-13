@@ -1,0 +1,12 @@
+Trying to Docker (Containerize) my personal portfolio web site.
+
+1) Trying to containerize the front end react app.
+
+
+
+
+https://www.youtube.com/watch?v=2IqjJjGLjx4
+
+https://dev.to/ayesh_nipun/how-to-dockerize-a-react-application-kpa
+
+https://www.youtube.com/watch?v=zgGhzuBZOQg&t=15132s
